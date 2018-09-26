@@ -129,6 +129,7 @@ li .channel-meta {
     right: 16px;
     top: 12px;
     font-size: 24px;
+    display: flex;
 }
 
 li img {
@@ -147,7 +148,6 @@ li .channel-meta span{
     padding:2px;
     border-radius: 2px;
     font-size:10px;
-    
     align-self:center;
 }
 
